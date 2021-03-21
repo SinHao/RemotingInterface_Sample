@@ -1,0 +1,6 @@
+D:\VisualStudioProject\RemotingInterface\RemotingInterface\bin\Debug\RemotingInterface.dll
+D:\VisualStudioProject\RemotingInterface\RemotingInterface\bin\Debug\RemotingInterface.pdb
+D:\VisualStudioProject\RemotingInterface\RemotingInterface\obj\Debug\RemotingInterface.csprojAssemblyReference.cache
+D:\VisualStudioProject\RemotingInterface\RemotingInterface\obj\Debug\RemotingInterface.csproj.CoreCompileInputs.cache
+D:\VisualStudioProject\RemotingInterface\RemotingInterface\obj\Debug\RemotingInterface.dll
+D:\VisualStudioProject\RemotingInterface\RemotingInterface\obj\Debug\RemotingInterface.pdb
